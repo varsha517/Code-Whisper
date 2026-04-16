@@ -6,7 +6,7 @@ Highlighting missing requirements
 
 Offering helpful fixes and improvements
 
-Whether you’re a beginner learning to code or an experienced developer, CodeAssist helps reduce debugging time and improves productivity.
+Whether you’re a beginner learning to code or an experienced developer, Code-Whisper helps reduce debugging time and improves productivity.
 
 Features
 Error Detection: Instantly spots syntax and logical errors in your code.
@@ -21,11 +21,13 @@ Getting Started
 Clone the repository:
 
 bash
-git clone https://github.com/your-username/codeassist.git
+git clone https://github.com/varsha517/code-Whisper.git
+
+
 Navigate to the project folder:
 
 bash
-cd codeassist
+cd code-Whisper
 Install dependencies:
 
 bash
